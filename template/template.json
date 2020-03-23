@@ -1,5 +1,6 @@
 {
   <%_ if (isComponent) { _%>
-  "component": true
+  "component": true,
   <%_ } _%>
+  "usingComponents": {}
 }
